@@ -39,3 +39,7 @@ The analysis showed the following county results.
 
 ![County Results](https://user-images.githubusercontent.com/106936638/176801861-1fe38bd8-b9ea-4fad-bd63-ddef1e9ee35a.PNG)
 
+## Election Audit Summary
+The script created can be used in future elections because it relies on variables to create custom lists based on the data within the csv files that could be used in the future.  The code could be used for candidate voting in different counties if the files have the same format.  If the files have different column format, the script could be used by modifying the column number when creating the variables.
+
+The script could also be used in other type of voting scenarios.  The code could be updated with different variable names if needed to better match the election being analyzed.  In addition, we could follow the same process to code additional questions or columns that may contain votes on other topics.
