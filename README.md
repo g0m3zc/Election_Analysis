@@ -28,5 +28,14 @@ The analysis of the election show that:
   - Diana DeGette who recieved 73.8% of the vote and 272,892 votes.
 
 ## Challenge Overview
+Additional coding was required to be able to report on outcomes at the county level.  The following tasks were completed.
+
+1. Get a complete candidate of all counties where votes were cast.
+2. Calculate the total number of votes cast in each county.
+3. Determinw which county had the largest number of votes.
 
 ## Challenge Summary
+The analysis showed the following county results.
+
+![County Results](https://user-images.githubusercontent.com/106936638/176801861-1fe38bd8-b9ea-4fad-bd63-ddef1e9ee35a.PNG)
+
